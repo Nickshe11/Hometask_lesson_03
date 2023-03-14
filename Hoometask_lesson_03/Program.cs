@@ -108,7 +108,7 @@ namespace Hometask_03
             /*Web site=new Web();
             site.Address = "krjfhr";
             site.Ip = "1736.947.485";
-            site.Name = "hyutghbjnk"; 
+            site.Name = "hyutghbjnk";  
             site.Print();*/
 
 
